@@ -1,0 +1,16 @@
+# Ignore node modules
+*node_modules
+
+# Ignore package-lock.json
+package-lock.json
+
+# Ignore package.json
+package.json
+
+# Ignore test files
+*main.js
+*test.js
+
+# Ignore configurations
+.eslintrc.js
+*babel.config.js
